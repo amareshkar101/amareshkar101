@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer!!
 
-- 🔭 Check out my projects: [My React Projects][https://github.com/amareshkar101?tab=repositories]!
+- 🔭 Check out my projects: [My React Projects][project]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2022 Goals: Learn more about MERN Stack
@@ -38,3 +38,6 @@
 <br />
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=amareshkar101&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Amaresh's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amareshkar101&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+
+[project] : https://github.com/amareshkar101?tab=repositories
