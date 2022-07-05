@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Bootstrap" width="26px" src="./img/bootstrap-5-1.svg" />]
@@ -37,7 +37,8 @@
 <br />
 <br />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=amareshkar101&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Amaresh's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amareshkar101&layout=compact&theme=buefy&hide_border=true" /></a> |
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=amareshkar101&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Amaresh's github stats" />]
+[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amareshkar101&layout=compact&theme=buefy&hide_border=true" />]
 
 
 
