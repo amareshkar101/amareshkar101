@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://famous-peony-f37181.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://famous-peony-f37181.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/theamareshkar-frontend-developer/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/theamareshkar-frontend-developer/#gh-dark-mode-only)
