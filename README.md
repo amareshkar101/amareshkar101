@@ -5,7 +5,7 @@
 - 🔭 Check out my projects: [My React Projects][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2022 Goals: Learn more about MERN Stack
+- 🥅 2024 Goals: Learn more about MERN Stack
 - ⚡ Fun fact: I love to travel
 
 ### Connect with me:
