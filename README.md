@@ -1,11 +1,10 @@
 # Hi there, I'm Amaresh 👋 
 
-## I'm a Frontend Developer!
+## I'm a Senior Frontend Engineer!
 
-- 🔭 Check out my projects: [My React Projects][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Check out my projects: [My Personal Projects][website]!
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2024 Goals: Learn more about MERN Stack
+- 🥅 2025 Goals: Learn more about MERN Stack
 - ⚡ Fun fact: I love to travel
 
 ### Connect with me:
