@@ -4,7 +4,7 @@
 
 - 🔭 Check out my projects: [My Personal Projects][website]!
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2025 Goals: Learn more about MERN Stack
+- 🥅 2026 Goals: Want to be AI Full Stack Engineer
 - ⚡ Fun fact: I love to travel
 
 ### Connect with me:
